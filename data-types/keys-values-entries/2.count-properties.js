@@ -9,4 +9,4 @@ const count = (obj) => {
   return Object.keys(obj).length
 }
 
-console.log( count(user) ); // 2
+console.log(count(user)) // 2
